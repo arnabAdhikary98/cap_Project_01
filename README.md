@@ -1,4 +1,4 @@
-# cap_Project_01
+# cap_project_01
 
 There are two Python files,-
 
